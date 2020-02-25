@@ -1,0 +1,6 @@
+1. NODEJS 
+    Express  - http://expressjs.com/ 
+
+    1. Middleware -http://expressjs.com/en/guide/using-middleware.html
+    2. routes - https://www.youtube.com/watch?v=iM_S4RczozU .
+                http://expressjs.com/en/4x/api.html#router . 
